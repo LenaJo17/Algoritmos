@@ -1,3 +1,7 @@
+'''
+Convertidor de yuanes a dolares
+'''
+
 def usd_to_cny(usd):
     # Tasa de conversión de USD a CNY
     conversion_rate = 6.75
