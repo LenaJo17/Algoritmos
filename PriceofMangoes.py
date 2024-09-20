@@ -1,3 +1,8 @@
+'''
+precio de los mangos
+'''
+
+
 def mango_cost(quantity, price_per_mango):
     # Calcular el número de mangos que se pagan (2 por cada 3)
     paid_mangoes = (quantity // 3) * 2 + (quantity % 3)
