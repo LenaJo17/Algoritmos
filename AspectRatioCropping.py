@@ -1,3 +1,7 @@
+'''
+La relación de aspecto de una imagen
+'''
+
 import math
 
 def to_16_9_aspect_ratio(x, y):
