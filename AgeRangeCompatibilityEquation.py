@@ -1,3 +1,8 @@
+'''
+compatibilidad del rango de edad
+'''
+
+
 import math
 
 
