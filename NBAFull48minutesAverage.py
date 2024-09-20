@@ -1,3 +1,8 @@
+'''
+minutos promedios NBA
+'''
+
+
 def points_per_48(ppg, mpg):
     # Si mpg es 0, retornamos 0
     if mpg == 0:
